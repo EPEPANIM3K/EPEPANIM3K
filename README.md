@@ -1,7 +1,7 @@
 ## Hello there, nice to see you👋
 ![EPEPANIM3K](image/github-header-banner.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=10&color=64F718&width=435&lines=Frontend+bisa;Backend+bisa;Desain+juga+bisa;Kadang+kadang+gali+sumur+juga+bisa)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=100&color=64F718&width=435&lines=Frontend+bisa;Backend+bisa;Desain+juga+bisa;Gali+sumur+juga+bisa)](https://git.io/typing-svg)
 <!--
 **EPEPANIM3K/EPEPANIM3K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
